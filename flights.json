@@ -1,0 +1,30 @@
+{
+  "airports": ["JFK", "ATL", "LAX", "DFW"],
+  "flights": [
+    {
+      "source": "JFK",
+      "destination": "ATL",
+      "duration": 120
+    },
+    {
+      "source": "ATL",
+      "destination": "LAX",
+      "duration": 240
+    },
+    {
+      "source": "LAX",
+      "destination": "DFW",
+      "duration": 180
+    },
+    {
+      "source": "DFW",
+      "destination": "JFK",
+      "duration": 200
+    },
+    {
+      "source": "ATL",
+      "destination": "DFW",
+      "duration": 100
+    }
+  ]
+}
